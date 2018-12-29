@@ -14,4 +14,4 @@ Python script that sends the user an SMS when Elon Musk mentions 'Tesla' in a tw
   * Clone this repo and run `heroku create`
 
 ## Demo
-[](twilio-test.png)
+![](twilio-test.jpg)
