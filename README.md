@@ -1,4 +1,4 @@
-# Stalking Elon Musk
+# Tesla Alert
 Python script that sends the user an SMS when Elon Musk mentions 'Tesla' in a tweet.
 
 ## Installation
